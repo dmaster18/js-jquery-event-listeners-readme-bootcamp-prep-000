@@ -1,9 +1,12 @@
 //define functions here
 function getIt() {
   $('p').on('click', function(key){
+    if(key){
     alert("Hey!");
     return;
-  })
+    }
+      
+    })
 }
 
 function frameIt(){
