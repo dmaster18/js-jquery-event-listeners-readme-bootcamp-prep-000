@@ -12,7 +12,6 @@ function frameIt(){
   $('img').on('load', function() {
       'img'.style;
     }
-  }
 }}
 
 $(document).ready(function(){
