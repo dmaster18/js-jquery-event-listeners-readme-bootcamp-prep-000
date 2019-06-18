@@ -29,7 +29,10 @@ function submitIt() {$(':submit').on('submit', function(){
 }
 
 $(document).ready(function(){
-
+getIt();
+frameIt();
+pressIt();
+submitIt();
 // call functions here
 
 });
