@@ -4,7 +4,6 @@ function getIt() {
     alert("Hey!");
     return '<p></p>'
   })
-  
 }
 
 $(document).ready(function(){
