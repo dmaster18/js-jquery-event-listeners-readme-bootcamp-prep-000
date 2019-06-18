@@ -8,7 +8,7 @@ function getIt() {
     })
 }
 
-function frameIt(){
+function frameIt() {
   $('img').on('load', function() {
       return 'img'.style;
     }
