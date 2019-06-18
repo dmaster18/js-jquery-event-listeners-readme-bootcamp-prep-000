@@ -1,7 +1,7 @@
 //define functions here
 function getIt() {
   $(document).on('click', function(key)){
-    alert("Hey!")
+    alert("Hey!");
     return '<p></p>'
   }
   
