@@ -23,7 +23,7 @@ function pressIt(){
   })
 }
 
-function submitIt() {$(':submit').on('submit')
+function submitIt() {$(':submit').on('submit', )
 }
 
 $(document).ready(function(){
