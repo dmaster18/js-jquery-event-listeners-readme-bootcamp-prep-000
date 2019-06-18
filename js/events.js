@@ -10,7 +10,9 @@ function getIt() {
 
 function frameIt(){
   $('img').on('load', function(key) {
-    if(key)
+    if(key){
+      
+    }
   }
 }}
 
