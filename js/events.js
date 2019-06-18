@@ -10,7 +10,7 @@ function getIt() {
 
 function frameIt(){
   $('img').on('load', function() {
-      <style class = tasty> </stle>
+      <style class = tasty> </style>
     }
   }
 }}
