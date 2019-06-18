@@ -1,9 +1,13 @@
 //define functions here
 function getIt() {
-  $(document).on('click', function(key){
+  $('p').on('click', function(key){
     alert("Hey!");
     return '<p></p>'
   })
+}
+
+function frameIt(){
+  $(document)
 }
 
 $(document).ready(function(){
